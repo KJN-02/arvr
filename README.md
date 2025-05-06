@@ -54,7 +54,7 @@ vr-virtual-art-gallery/
 
 1. **Clone the repository**
 bash
-
+git clone https://github.com/KJN-02/arvr.git
 
 3. **Install dependencies**
 npm install
